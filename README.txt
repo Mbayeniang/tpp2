@@ -1,1 +1,1 @@
-Cet tp permet de comprendre les commandes git
+Cet tp permet de comprendre les commandes git comme git init pour initialiser notre projet

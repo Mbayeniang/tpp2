@@ -1,1 +1,0 @@
-Cet tp permet de comprendre les commandes git et leurs utilités 
